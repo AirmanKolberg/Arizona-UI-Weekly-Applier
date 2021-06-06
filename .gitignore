@@ -1,0 +1,8 @@
+secrets.py
+Arizona-UI-Weekly-Applier/
+venv/
+.DS_Store
+.idea/
+.job_apply.py.swp
+__pycache__/
+geckodriver.log
